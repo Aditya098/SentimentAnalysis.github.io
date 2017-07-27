@@ -3,10 +3,10 @@
 *Sentiment Analysis* is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker.
 
 ## Why Sentiment Analysis ?
-###  ___Sentiment Analysis of Business___
+###  __Sentiment Analysis of Business__
             As we know, Twitter is a reservoir for a vast amount of data. This data can be extremely useful for business decisions, new product research and deciding on what content to share with your audience. Pre social media you know what we relied on? Instinct. This is kind of risky when it’s being used to determine where the money moves.
 
-###  ___Sentiment Analysis of Politics___
+###  __Sentiment Analysis of Politics__
              In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
 
 
