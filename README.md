@@ -49,7 +49,7 @@ This topic covers the sentiment analysis of any topic/query by parsing the tweet
  
 *  [Link](https://plot.ly/~adityac564/40/#plot) for an interactive plot in plotly.
 
-```
+```python
 import plotly as py
 py.tools.set_credentials_file(username='adityac564', api_key='r0oOvo7yWphavCbFEoMG') # plotly username and API key
 import plotly.plotly as py
