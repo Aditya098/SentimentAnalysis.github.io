@@ -16,9 +16,8 @@
 This topic covers the sentiment analysis of any topic/query by parsing the tweets fetched from Twitter using Python.
 ### Steps Involved
 ### *Installation*
-  1.Tweepy: tweepy is the python client for the official Twitter API.Install it using following pip command
+1.Tweepy: tweepy is the python client for the official Twitter API.Install it using following pip command
 ```pip install tweepy```
-
 
 2. TextBlob: textblob is the python library for processing textual data.Install it using following pip command:
 ```pip install textblob```
@@ -30,6 +29,7 @@ This topic covers the sentiment analysis of any topic/query by parsing the tweet
     2. Fill the application details.
     3. Once the app is created Open the ‘Keys and Access Tokens’ tab. 
     4. Copy ‘ConsumerKey’, ‘Consumer Secret’, ‘Access token’and ‘Access Token Secret’.
+
 * To Plot nice interactive Graphs we use  **_Plotly_**
     1. Create a [Plotly](https://plot.ly) account 
     2. Go to [API Settings](https://plot.ly/settings/api) and note the api key.
@@ -43,9 +43,9 @@ This topic covers the sentiment analysis of any topic/query by parsing the tweet
      
  ![Sentiment_Analysis](/sentiment_analysis_OnePlus.png)
  
-*  [Link](https://plot.ly/~adityac564/40/#plot) for an interactive plot in plotly.
+* [Link](https://plot.ly/~adityac564/40/#plot) for an interactive plot in plotly.
 
-* [Github Link](https://github.com/Aditya098/Sentiment-Analysis/blob/master/sentiment_analysis.py) for the Code.
+* [Github Link](https://github.com/Aditya098/SentimentAnalysis.github.io/blob/master/Sentiment_Analysis.py) for the Code.
      
 ### We follow these 3 major steps in our program:
 
@@ -81,5 +81,6 @@ Then, we can do various type of statistical analysis on the tweets. For example,
 
 ## References
 https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
-textblob.readthedocs.io/en/dev/_modules/textblob/en/sentiments.html
+
+http://textblob.readthedocs.io/en/dev/_modules/textblob/en/sentiments.html
 
